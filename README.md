@@ -60,9 +60,3 @@ Custom made presets for koko-aio shader in RetroArch.
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/567791e0-d613-4725-a501-e48d34786212">|<img width="720" alt="" src="https://github.com/user-attachments/assets/8fffe4b1-59f8-430c-bfbd-b63d8bbe0076">|<img width="720" alt="" src="https://github.com/user-attachments/assets/de1cdaea-e3ce-40c3-ba91-eedb68b43e2f">
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/a798ebea-3fa5-4a8b-ad1d-c04359d49565">|<img width="720" alt="" src="https://github.com/user-attachments/assets/aa64b67f-e834-489a-99d3-0c232e53dc98">
-
-**[LodanZark pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/LodanZark) (extra colors by me):**
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/3ba57795-9b90-48fe-8448-71c9b03f2a24">|<img width="720" alt="" src="https://github.com/user-attachments/assets/87307f47-7fae-4a51-8cf3-c5163f3e52c7">|<img width="720" alt="" src="https://github.com/user-attachments/assets/f4c7e4b1-54be-4f41-bb99-061193b22447">
