@@ -1,36 +1,15 @@
-# koko-aio Presets & Overlays
-Custom made presets for koko-aio shader in RetroArch.
+These shader presets are to be used with RetroArch, I do not take credit for all graphics used, refer to each included credits.txt for details.
 
 **How to use:**
 - Go to [releases](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases) and pick a pack of your choice.
-- Create "**koko-aio_packs**" folder in: "**RetroArch/shaders**".
-- Unpack your pack-of-choice to the new created **"koko-aio_packs"**.
-- The RetroArch aspect ratio must be set to FULL in settings/video/scaling.
+- Unpack into: RetroArch/shaders.
+- The aspect ratio must be set to FULL in settings/video/scaling.
 - Load a shader preset from Quick Menu/Shaders and go.
 
 ## Screenshots:
 *images are compressed*
 
-**[Starman99x RGB CRT pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Starman99x_RGB_CRT):**
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/e5ddcc8d-fdab-44d9-86a4-f6e020d16812">|<img width="720" alt="" src="https://github.com/user-attachments/assets/7dc33344-0682-4c89-8c5a-5a4f78f49602">|<img width="720" alt="" src="https://github.com/user-attachments/assets/e9bd0bcb-a6a5-45ee-8730-c20fb500ca21">
-
-**[Exodus CRT pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Exodus):**
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/017a3b94-9c35-4308-8714-fcde6a6ee821">|<img width="720" alt="" src="https://github.com/user-attachments/assets/2bec8c20-480b-49f1-8dcc-35039c5938db">
-
-**[Starman99x Tamagotchi pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Tamagotchi):**
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/936fb2a1-f811-406c-856c-769743cd6a7a">|<img width="720" alt="" src="https://github.com/user-attachments/assets/b0a2f5fe-2a7a-4fc9-be52-c03073704995">
-
-
-**[Soqueroeu Arcade pack + extras](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Soqueroeu_Arcade):**
+**[Soqueroeu Arcade pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Soqueroeu_Arcade):**
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
@@ -39,24 +18,9 @@ Custom made presets for koko-aio shader in RetroArch.
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/6af857ae-28ea-485e-957e-7afc548cf901">|<img width="720" alt="" src="https://github.com/user-attachments/assets/dc93d0e6-dbf1-49a1-b01d-164ac1ee6d8c">|<img width="720" alt="" src="https://github.com/user-attachments/assets/b81c2e01-86ec-4a0c-9849-a195034d0ef2">
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/af067ed0-929e-42a4-8765-5bfc6ba88c52">|<img width="720" alt="" src="https://github.com/user-attachments/assets/799664a2-8303-4109-9cc8-b29cef9f9cf6">|<img width="720" alt="" src="https://github.com/user-attachments/assets/1a6cb2a0-3037-4e0b-8ef2-fb85c482d32d">
 
-**[Backdrop Classics pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Backdrop_Classics):**
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/69fc7bdb-ab79-434b-8b39-03455e321d1d">|<img width="720" alt="" src="https://github.com/user-attachments/assets/57fd1b8f-34dd-452e-a87d-8ea9b0242385">|<img width="720" alt="" src="https://github.com/user-attachments/assets/930944cb-724b-4c91-a659-17348fd8beff">
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/44d9826a-9077-4963-909c-bf2244410b0a">|<img width="720" alt="" src="https://github.com/user-attachments/assets/b55c2014-a884-484d-9643-e53702dda666">|<img width="720" alt="" src="https://github.com/user-attachments/assets/09e78f13-09f9-4387-aab0-e947a8558630">
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/5b8f54ad-6859-452e-a109-8d9db3f09a54">|<img width="720" alt="" src="https://github.com/user-attachments/assets/0200bb4b-423f-4752-85f4-b577842272a1">|<img width="720" alt="" src="https://github.com/user-attachments/assets/d9862711-d62d-45c7-81c6-e9ecebd64a8e">
-
 **[Ambilight pack](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Ambilight):**
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/64e7c0b9-3be3-4bc3-bb1b-5e411aa29a83">|<img width="720" alt="" src="https://github.com/user-attachments/assets/9e19c50d-628d-4529-853b-955489ece86f">|<img width="720" alt="" src="https://github.com/user-attachments/assets/fc090f21-9370-4826-9803-6839298dfed4">
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/ae4854c1-02bf-4e9d-af51-aaffc1467efa">|<img width="720" alt="" src="https://github.com/user-attachments/assets/faf2a9df-9044-4342-a299-a95779588954">|<img width="720" alt="" src="https://github.com/user-attachments/assets/124c3c84-cf82-4f85-8a1b-6f4911a24514">
-
-**[Mobile pack (koko + MBZ)](https://github.com/Starman99x/koko-aio-presets-and-overlays/releases/tag/Starman99x_Mobile):**
-
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/567791e0-d613-4725-a501-e48d34786212">|<img width="720" alt="" src="https://github.com/user-attachments/assets/8fffe4b1-59f8-430c-bfbd-b63d8bbe0076">|<img width="720" alt="" src="https://github.com/user-attachments/assets/de1cdaea-e3ce-40c3-ba91-eedb68b43e2f">
-|<img width="720" alt="" src="https://github.com/user-attachments/assets/a798ebea-3fa5-4a8b-ad1d-c04359d49565">|<img width="720" alt="" src="https://github.com/user-attachments/assets/aa64b67f-e834-489a-99d3-0c232e53dc98">
