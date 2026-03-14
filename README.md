@@ -22,7 +22,7 @@ For takedown requests: starman99x@gmail.com
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|<img width="720" alt="" src="">|<img width="720" alt="" src="https://github.com/user-attachments/assets/a6b54d05-253c-498d-9379-107a6952264f">|<img width="720" alt="" src="https://github.com/user-attachments/assets/64530e2b-ab0c-43d9-be4d-470b7b9156b4">
+|<img width="720" alt="" src="https://github.com/user-attachments/assets/1f21cb93-2222-476a-81b7-28f0c9e74465">|<img width="720" alt="" src="https://github.com/user-attachments/assets/a6b54d05-253c-498d-9379-107a6952264f">|<img width="720" alt="" src="https://github.com/user-attachments/assets/64530e2b-ab0c-43d9-be4d-470b7b9156b4">
 
 **[Starman99x-Mega-Bezel pack]():**
 
