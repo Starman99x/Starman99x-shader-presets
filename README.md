@@ -20,11 +20,43 @@ For takedown requests: starman99x@gmail.com
 
 **[Starman99x-koko-aio pack](https://github.com/Starman99x/Starman99x-shader-presets/releases/tag/Starman99x-koko-aio):**
 
+<details>
+  <summary>Preset List:</summary>
+  
+- Arcade_MultiScreen
+- Arcade_MultiScreen_HiresFast
+- Bandai_Tamagotchi
+- Mobile_J2ME
+- Neo_Geo_MVS
+- Nokia_N-Gage
+- Sammy_Atomiswave
+- Sammy_Atomiswave_HiresFast
+- SEGA_Naomi
+- SEGA_Naomi_HiresFast
+- TV_70s
+- TV_70s_HiresFast
+- TV_Libretro
+- TV_Libretro_HiresFast
+- TV_Libretro_Vector
+  
+</details>
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="720" alt="" src="https://github.com/user-attachments/assets/1f21cb93-2222-476a-81b7-28f0c9e74465">|<img width="720" alt="" src="https://github.com/user-attachments/assets/a6b54d05-253c-498d-9379-107a6952264f">|<img width="720" alt="" src="https://github.com/user-attachments/assets/64530e2b-ab0c-43d9-be4d-470b7b9156b4">
 
 **[Starman99x-Mega-Bezel pack](https://github.com/Starman99x/Starman99x-shader-presets/releases/tag/Starman99x-Mega-Bezel):**
+
+<details>
+  <summary>Preset List:</summary>
+  
+- Nokia_N-Gage
+- Arcade_MultiScreen
+- Bandai_Tamagotchi
+- Mobile_J2ME
+- Neo_Geo_MVS
+  
+</details>
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
