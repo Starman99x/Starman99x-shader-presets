@@ -34,8 +34,10 @@ For takedown requests: starman99x@gmail.com
 - SEGA_Naomi
 - SEGA_Naomi_HiresFast
 - TV_70s
+- TV_70s_GBP (Game Boy Player)
 - TV_70s_HiresFast
 - TV_Libretro
+- TV_Libretro_GBP (Game Boy Player)
 - TV_Libretro_HiresFast
 - TV_Libretro_Vector
   
