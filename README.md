@@ -33,6 +33,7 @@ For takedown requests: starman99x@gmail.com
 - Sammy_Atomiswave_HiresFast
 - SEGA_Naomi
 - SEGA_Naomi_HiresFast
+- SONY_PocketStation
 - TV_70s
 - TV_70s_GBP (Game Boy Player)
 - TV_70s_HiresFast
@@ -52,11 +53,12 @@ For takedown requests: starman99x@gmail.com
 <details>
   <summary>Preset List:</summary>
   
-- Nokia_N-Gage
 - Arcade_MultiScreen
 - Bandai_Tamagotchi
 - Mobile_J2ME
 - Neo_Geo_MVS
+- Nokia_N-Gage
+- SONY_PocketStation
   
 </details>
 
